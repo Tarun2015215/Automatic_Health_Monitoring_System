@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
        
-        Patient patient1 = new Patient("John Doe", 45, "Rural Area");
+        Patient patient1 = new Patient("Tarun sai", 21, "Rural Area");
         system.addPatient(patient1);
 
         while (true) {
